@@ -1,0 +1,12 @@
+h1, p{
+    display: inline-block;
+}
+p{
+    cursor: pointer;
+    color: white;
+}
+div{
+    width: 100%;
+    text-align: center;
+    margin-top: 400px;
+}
